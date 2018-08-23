@@ -19,3 +19,5 @@ small and for larger text width will be large. By simple meaning, wrap_content w
 By using "android:text", we can put some text in our TextView (here we are putting "I am learning xml").
 
 By using "android:textSize", we are giving the size of text present in the TextView(sp is another unit which stands for Scale Independent Pixel).
+
+You can find the view or the output of this code in the lesson folder as 
