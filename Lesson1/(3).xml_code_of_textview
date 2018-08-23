@@ -1,0 +1,16 @@
+Here is a sample code for using a text view i.e. using a text part in your mobile application :   
+<TextView
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Order now : "
+        android:textSize="30sp" />
+    
+So, lets understand the meaning of above code :
+By using "android:layout_width" we are giving the width of the TextView. Here we have give it match_parent.
+By using match_parent, we are giving the soace occupied by your parent. For example, if the parent of TextView is having width 
+equals 10dp(dp means density pixel-a unit of measurement) then the TextView will match it's parent's width i.e. 10dp. In this case
+both parent and child will have the same width. In our example, since there is no parent so by default mobile's screen width will 
+be considered as the width of parent and hence the width of the TextView. 
