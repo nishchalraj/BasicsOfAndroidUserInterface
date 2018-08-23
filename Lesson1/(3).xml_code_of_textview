@@ -20,4 +20,4 @@ By using "android:text", we can put some text in our TextView (here we are putti
 
 By using "android:textSize", we are giving the size of text present in the TextView(sp is another unit which stands for Scale Independent Pixel).
 
-You can find the view or the output of this code in the lesson folder as 
+You can find the view or the output of this code in the lesson folder as xml-textview.png
