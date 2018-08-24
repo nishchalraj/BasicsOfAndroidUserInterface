@@ -23,3 +23,16 @@ By using "android:textSize", we are giving the size of text present in the TextV
 You can find the view or the output of this code in the lesson folder as xml-textview.png
 
 Try to update the above code of TextView by using some other properties.
+
+For example :
+
+<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginLeft="16dp"
+            android:gravity="center"
+            android:text="I am learning xml "
+            android:textColor="#000000"
+            android:textSize="20sp" />
+            
+Try to identify the use of some new properties that we have not used in the first code.
